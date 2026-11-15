@@ -4,21 +4,22 @@ Welcome to my HTML Projects Repository!
 
 I am **Muqaddas Khizar**, an aspiring Software Engineer passionate about web development and programming.
 
-This repository contains 10 HTML projects that I developed while learning HTML. These projects represent my learning journey, progressing from beginner-level HTML fundamentals to more advanced website structures and interactive project concepts.
+This repository contains 10 HTML projects that I developed while learning HTML. These projects represent my learning journey, progressing from beginner-level HTML fundamentals to more advanced website structures.
 
 ## Projects Included
 
-This repository contains 10 projects, including:
-
-- Student Registration Form
-- University Website
-- Restaurant Website
-- Personal Portfolio
-- Professional Portfolio
-- Travel Website
-- Online Shopping Website
-- Hospital Management Website
-- Additional HTML Practice Projects
+| Project | File |
+|---|---|
+| Blog | `blog.html` |
+| Hospital Website | `hospital.html` |
+| Personal Portfolio | `portfolio.html` |
+| Professional Portfolio | `professional-portfolio.html` |
+| Student Registration Form | `registration.html` |
+| Restaurant Website | `resturant.html` |
+| Online Shopping Website | `shop.html` |
+| Timetable | `timetable.html` |
+| Travel Website | `travel.html` |
+| University Website | `university.html` |
 
 ## Skills Demonstrated
 
@@ -35,6 +36,12 @@ This repository contains 10 projects, including:
 - HTML5
 - Visual Studio Code
 
+## How to View
+
+1. Click the green **Code** button, then **Download ZIP**
+2. Extract the folder
+3. Open any project file (for example `portfolio.html`) in your browser
+
 ## My Learning Journey
 
 These projects demonstrate my progression from learning HTML fundamentals to applying them in practical website development.
@@ -45,7 +52,7 @@ I am continuously expanding my knowledge of web development and working toward b
 
 **Muqaddas Khizar**
 
-GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
+GitHub: [muqaddas147](https://github.com/muqaddas147)
 
 ---
 
